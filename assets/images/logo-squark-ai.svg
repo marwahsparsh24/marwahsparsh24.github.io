@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 120" role="img" aria-labelledby="title">
+  <title id="title">Squark AI logo</title>
+  <rect width="240" height="120" rx="18" fill="#07191c"/>
+  <circle cx="54" cy="60" r="27" fill="#36d4be"/>
+  <path d="M45 60c0-10 7-17 17-17h9v17c0 10-7 17-17 17h-9V60z" fill="#07191c"/>
+  <text x="96" y="55" fill="#ffffff" font-family="Poppins, Arial, sans-serif" font-size="26" font-weight="700">Squark</text>
+  <text x="96" y="82" fill="#36d4be" font-family="Poppins, Arial, sans-serif" font-size="22" font-weight="700">AI</text>
+</svg>

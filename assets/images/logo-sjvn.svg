@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 120" role="img" aria-labelledby="title">
+  <title id="title">SJVN logo</title>
+  <rect width="240" height="120" rx="18" fill="#0b233f"/>
+  <circle cx="58" cy="60" r="30" fill="#e9c46a"/>
+  <path d="M33 65c19-22 37-22 54 0-19 10-37 10-54 0z" fill="#2fc4b2"/>
+  <text x="104" y="71" fill="#ffffff" font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="800">SJVN</text>
+</svg>
